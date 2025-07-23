@@ -30,7 +30,7 @@ app.listen(PORT, () => {
 });
 
 // ========== CONFIG ==========
-const OWNER_ID = '1360966433017696307';
+const OWNER_ID = process.env.CLIENT_ID;
 const tax_robux = 0.0478;
 const tax_gamepass = 0.04;
 
