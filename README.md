@@ -1,8 +1,5 @@
 # 🎉 Integração BTC Lightning Network Concluída!
 
-## ✅ Status da Implementação
-
-A funcionalidade de pagamentos via **Bitcoin Lightning Network** foi implementada com sucesso no seu bot Discord! 
 
 ## 🔧 O que foi implementado:
 
@@ -82,16 +79,3 @@ O comando `/vendas` agora mostra o método de pagamento usado:
 - `working/index.js` - Básico sem pagamentos (preservado)
 - `test_blink.js` - Teste de conexão Blink
 - `README_LIGHTNING.md` - Documentação completa
-
-## 🎉 Está pronto para usar!
-
-Sua integração Lightning Network está 100% funcional e testada. O bot agora oferece uma experiência de pagamento moderna e instantânea, mantendo toda a funcionalidade PIX existente intacta.
-
-**Benefícios da Lightning Network:**
-- ⚡ Pagamentos instantâneos
-- 💰 Taxas muito baixas  
-- 🌍 Funciona globalmente
-- 🔒 Segurança Bitcoin
-- 🤖 Confirmação automática
-
-Seu bot Venus agora está na vanguarda da tecnologia de pagamentos!
